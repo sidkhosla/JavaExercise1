@@ -1,5 +1,9 @@
+package EX1;
+//[ ] EX1.Swap
+
 public class Swap {
-    public static void main(String args[]) {
+
+    public static void swap(String args[]) {
         {
             float first = 1.20f, second = 2.45f;
 

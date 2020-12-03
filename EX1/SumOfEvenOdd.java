@@ -1,5 +1,9 @@
+package EX1;
+//[ ] Sum of n numbers(even and odd)
+
 public class SumOfEvenOdd {
-    public static void main(String args[]) {
+
+    public static void sumOfEvenOdd(String args[]) {
         {
             int n = 10;
             int evenSum = 0;
